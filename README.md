@@ -113,6 +113,7 @@ An integrated mobile and backend application designed to digitize village letter
 </div>
 
 <div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=anggiimaulana&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anggiimaulana&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
