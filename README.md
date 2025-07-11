@@ -1,29 +1,31 @@
-# Halo semua! 
+## 👋 Hi there, I'm Anggi Maulana!
 
-Perkenalkan nama saya **Anggi Maulana**.<br>
+Selamat datang di profil GitHub saya! Saya antusias dalam pengembangan perangkat lunak, web development, dan sistem cerdas.
 
-Saya seorang **Backend & Mobile Developer** di [Politeknik Negeri Indramayu](https://polindra.ac.id/).<br>
+---
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/anggi-maulana-72ba572a3/) ku ya.
+## 📊 GitHub Stats:
 
-<p align="left">
-<a href="https://github.com/anggiimaulana">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anggiimaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anggiimaulana&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+![Anggi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anggiimaulana&show_icons=true&theme=dark&count_private=true)
 
-<!--
-**anggiimaulana/anggiimaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggiimaulana&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+![GitHub Streak](https://streak-stats.demolab.com?user=anggiimaulana&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=anggiimaulana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔧 Tech Stack & Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/anggiimaulana)
