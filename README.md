@@ -8,7 +8,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggiimaulana)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anggiimaulana)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anggi.maulana@gmail.com)
   
 </div>
 
@@ -34,8 +33,8 @@ An integrated mobile and backend application designed to digitize village letter
 
 **🔧 Tech Stack:**
 - **Frontend**: Flutter (Cross-platform Mobile)
-- **Backend**: Laravel 10 + MySQL
-- **Authentication**: JWT + Role-based Access Control
+- **Backend**: Laravel 11 + MySQL
+- **Authentication**: Sanctum
 - **Features**: Digital Signatures, Document Management, Real-time Notifications
 
 **👨‍💻 My Role:** Fullstack Developer (Mobile & Backend)
@@ -44,7 +43,7 @@ An integrated mobile and backend application designed to digitize village letter
 - ✅ Reduced document processing time by 75%
 - ✅ Improved citizen satisfaction rating to 95%
 - ✅ Successfully digitized 100% of village letter services
-- ✅ Served 500+ residents with streamlined processes
+- ✅ Served 200+ residents with streamlined processes
 
 **🌟 Key Features:**
 - 📄 Digital document generation and management
@@ -63,8 +62,6 @@ An integrated mobile and backend application designed to digitize village letter
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### **Backend Development**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -91,7 +88,6 @@ An integrated mobile and backend application designed to digitize village letter
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Operating Systems**
@@ -138,7 +134,6 @@ An integrated mobile and backend application designed to digitize village letter
 ## 🎯 Professional Goals & Objectives
 
 **2025 Roadmap:**
-- 🎓 **Complete D4 Program** with outstanding academic performance
 - 💼 **Secure internship** at a leading technology company
 - 🚀 **Launch 2-3 production applications** with real-world impact
 - 🏆 **Contribute to open-source projects** in Flutter/Laravel ecosystem
@@ -154,12 +149,11 @@ An integrated mobile and backend application designed to digitize village letter
 
 ## 🏅 Achievements & Recognition
 
-- 🎓 **D4 Smart City Information Systems** - Politeknik Negeri Indramayu (Current GPA: 3.8/4.0)
-- 🏆 **Best Innovation Award** - Village Technology Challenge 2024
-- 📱 **2+ Years Flutter Development** - Self-taught with production experience
-- 🔧 **1.5+ Years Laravel Backend** - Enterprise-level application development
+- 🎓 **D4 Smart City Information Systems** - Politeknik Negeri Indramayu (Current GPA: 3.97/4.0)
+- 📱 **1+ Years Flutter Development** - Self-taught with production experience
+- 🔧 **1+ Years Laravel Backend** - Enterprise-level application development
 - 🌟 **Digital Signature Pioneer** - First implementation in village administration
-- 💡 **500+ Users Served** - Through developed applications
+- 💡 **200+ Users Served** - Through developed applications
 
 ---
 
@@ -168,8 +162,8 @@ An integrated mobile and backend application designed to digitize village letter
 - **Advanced Flutter State Management** (Bloc, Riverpod, Provider)
 - **Microservices Architecture** with Laravel
 - **DevOps Practices** (CI/CD, Docker, Cloud Deployment)
-- **Smart City IoT Integration** (Sensor Data, Real-time Analytics)
-- **UI/UX Design Principles** for Mobile Applications
+- **Smart City IoT Integration** (Real-time Analytics)
+- **UI/UX Design Principles** for Mobile and Web Applications
 
 ---
 
@@ -183,8 +177,6 @@ I'm always excited to discuss new opportunities, innovative projects, and collab
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggiimaulana)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggiimaulana)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anggi.maulana@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281234567890)
 
 </div>
 
@@ -197,9 +189,3 @@ I'm always excited to discuss new opportunities, innovative projects, and collab
 </div>
 
 ---
-
-<div align="center">
-  <sub>⭐ **Star this repository if you find it helpful!** ⭐</sub>
-  <br/>
-  <i>Made with by [Anggi Maulana](https://github.com/anggiimaulana)</i>
-</div>
