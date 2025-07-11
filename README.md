@@ -7,7 +7,9 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggiimaulana)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anggiimaulana)  
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anggiimaulana)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anggi.maulana@gmail.com)
+  
 </div>
 
 ---
@@ -32,14 +34,14 @@ An integrated mobile and backend application designed to digitize village letter
 
 **🔧 Tech Stack:**
 - **Frontend**: Flutter (Cross-platform Mobile)
-- **Backend**: Laravel 11 + MySQL
-- **Authentication**: Laravel Sanctum
+- **Backend**: Laravel 10 + MySQL
+- **Authentication**: JWT + Role-based Access Control
 - **Features**: Digital Signatures, Document Management, Real-time Notifications
 
 **👨‍💻 My Role:** Fullstack Developer (Mobile & Backend)
 
 **📈 Impact:** 
-- ✅ Reduced document processing time by 95%
+- ✅ Reduced document processing time by 75%
 - ✅ Improved citizen satisfaction rating to 95%
 - ✅ Successfully digitized 100% of village letter services
 - ✅ Served 500+ residents with streamlined processes
@@ -61,15 +63,19 @@ An integrated mobile and backend application designed to digitize village letter
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### **Backend Development**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Web Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -77,13 +83,15 @@ An integrated mobile and backend application designed to digitize village letter
 
 ### **Database & Cloud**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Operating Systems**
@@ -92,7 +100,6 @@ An integrated mobile and backend application designed to digitize village letter
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### **Other Technologies**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
@@ -103,11 +110,11 @@ An integrated mobile and backend application designed to digitize village letter
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anggiimaulana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggiimaulana&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggiimaulana&layout=compact&theme=tokyonight&hide_border=true&hide=html"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggiimaulana&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=anggiimaulana&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ### **Detailed GitHub Statistics**
@@ -131,6 +138,7 @@ An integrated mobile and backend application designed to digitize village letter
 ## 🎯 Professional Goals & Objectives
 
 **2025 Roadmap:**
+- 🎓 **Complete D4 Program** with outstanding academic performance
 - 💼 **Secure internship** at a leading technology company
 - 🚀 **Launch 2-3 production applications** with real-world impact
 - 🏆 **Contribute to open-source projects** in Flutter/Laravel ecosystem
@@ -146,21 +154,22 @@ An integrated mobile and backend application designed to digitize village letter
 
 ## 🏅 Achievements & Recognition
 
-- 🎓 **D4 Smart City Information Systems** - Politeknik Negeri Indramayu (Current GPA: 3.97/4.0)
-- 📱 **1+ Years Flutter Development** - Self-taught with production experience
+- 🎓 **D4 Smart City Information Systems** - Politeknik Negeri Indramayu (Current GPA: 3.8/4.0)
+- 🏆 **Best Innovation Award** - Village Technology Challenge 2024
+- 📱 **2+ Years Flutter Development** - Self-taught with production experience
 - 🔧 **1.5+ Years Laravel Backend** - Enterprise-level application development
 - 🌟 **Digital Signature Pioneer** - First implementation in village administration
-- 💡 **200+ Users Served** - Through developed applications
+- 💡 **500+ Users Served** - Through developed applications
 
 ---
 
 ## 🔥 Current Learning Focus
 
-- **Advanced Flutter State Management** (Bloc, Provider, GetX)
+- **Advanced Flutter State Management** (Bloc, Riverpod, Provider)
 - **Microservices Architecture** with Laravel
 - **DevOps Practices** (CI/CD, Docker, Cloud Deployment)
-- **Smart City IoT Integration** (Real-time Analytics)
-- **UI/UX Design Principles** for Mobile and Web Applications
+- **Smart City IoT Integration** (Sensor Data, Real-time Analytics)
+- **UI/UX Design Principles** for Mobile Applications
 
 ---
 
@@ -174,6 +183,8 @@ I'm always excited to discuss new opportunities, innovative projects, and collab
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggiimaulana)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggiimaulana)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anggi.maulana@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281234567890)
 
 </div>
 
