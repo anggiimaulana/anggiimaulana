@@ -1,4 +1,10 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Anggi Maulana**.<br>
+
+Saya seorang **Backend & Mobile Developer** di [Politeknik Negeri Indramayu](https://polindra.ac.id/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/anggi-maulana-72ba572a3/)ku ya.
 
 <!--
 **anggiimaulana/anggiimaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
