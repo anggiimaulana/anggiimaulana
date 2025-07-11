@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggiimaulana)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anggi-maulana-72ba572a3)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anggiimaulana)
   
 </div>
@@ -162,7 +162,7 @@ An integrated mobile and backend application designed to digitize village letter
 
 ## 🔥 Current Learning Focus
 
-- **Advanced Flutter State Management** (Bloc, Riverpod, Provider)
+- **Advanced Flutter State Management** (Bloc, Riverpod, Provider, GetX)
 - **Microservices Architecture** with Laravel
 - **DevOps Practices** (CI/CD, Docker, Cloud Deployment)
 - **Smart City IoT Integration** (Real-time Analytics)
@@ -178,7 +178,7 @@ I'm always excited to discuss new opportunities, innovative projects, and collab
 
 **🚀 Ready for New Challenges | 💼 Open to Internship Opportunities | 🌟 Passionate About Impact**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggiimaulana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anggi-maulana-72ba572a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggiimaulana)
 
 </div>
