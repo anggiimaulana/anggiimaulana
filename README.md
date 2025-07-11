@@ -47,14 +47,13 @@ An integrated mobile and backend app to digitize village letter services with **
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Detailed GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anggiimaulana&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&custom_title=📊 GitHub Overview"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggiimaulana&layout=compact&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=anggiimaulana&theme=tokyonight"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=anggiimaulana&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggiimaulana&theme=github_dark" alt="GitHub Profile Summary"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anggiimaulana&theme=github_dark&utcOffset=7" alt="Most Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anggiimaulana&theme=github_dark" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anggiimaulana&theme=github_dark" alt="Top Languages by Commit"/>
 
 ---
 
