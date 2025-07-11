@@ -138,12 +138,13 @@ An integrated mobile and backend application designed to digitize village letter
 ## 🎯 Professional Goals & Objectives
 
 **2025 Roadmap:**
-- 💼 **Secure internship** at a leading technology company
 - 🚀 **Launch 2-3 production applications** with real-world impact
 - 🏆 **Contribute to open-source projects** in Flutter/Laravel ecosystem
 - 📚 **Master advanced concepts** in mobile architecture and backend scalability
 
 **Long-term Vision (2025-2027):**
+- 💼 **Secure internship** at a leading technology company
+- 🎓 Complete D4 Program with outstanding academic performance
 - 🌟 **Become a certified Flutter Expert** and Laravel Professional
 - 🏙️ **Specialize in Smart City IoT integration** and urban technology solutions
 - 👥 **Lead development teams** on large-scale government digitization projects
